@@ -1,4 +1,4 @@
-In this project, i build a **Comments App** by applying the ReactJs concepts learned till now.
+In this project, i build a **Comments App** by applying the ReactJs concepts learned till now .
 
 # Live Link : https://comments.ccbp.tech/
 
